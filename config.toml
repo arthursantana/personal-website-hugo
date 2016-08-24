@@ -18,8 +18,8 @@ disqusShortname = "arthursantana"
 	enableRSS = true
 
 	# Add custom assets with their paths relative to the static folder
-	customCSS = []
-	customJS  = []
+	customCSS = ["style.css"]
+	customJS  = ["script.js"]
 
 	# The variables below are optionally too and can be used to
 	# translate or customize each string of the theme.

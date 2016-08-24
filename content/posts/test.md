@@ -51,4 +51,7 @@ x := 10
 ls | grep "nothing"
 {{</highlight>}}
 
+### Even easier Bash
+      $ ls | grep "nothing"
+
 {{< mathjax >}}
