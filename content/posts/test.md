@@ -43,7 +43,7 @@ int x = 10;
 
 ### Then Go code
 {{<highlight go>}}
-int x := 10;
+x := 10
 {{</highlight>}}
 
 ### Then Bash
