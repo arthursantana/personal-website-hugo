@@ -1,5 +1,7 @@
 default:
-		hugo --buildDrafts
+		hugo
+deploy: default
+		bash deploy.sh
 serve:
 		hugo --buildDrafts serve
 cactus:
