@@ -1,17 +1,18 @@
 # Site settings
+editor = "vim"
+newContentEditor = "vim"
 baseurl = "https://arthursantana.github.io/"
 languageCode = "en-us"
 title = "Arthur Santana"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
-# Disable comments by leaving disqusShortname empty
+#googleAnalytics = ""
 disqusShortname = "arthursantana"
 
 [params]
 	name = "Arthur Santana"
-	description = "Describe your website"
-	bio = "Blogger - Programmer - Gopher"
+	description = "Personal blog of Arthur Santana."
+	bio = "Professional hobbist"
 	# Enter optionally your twitter account
 	#twitter = "Your Twitter account"
 	enableRSS = true
@@ -33,7 +34,7 @@ disqusShortname = "arthursantana"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an enthusiastic gopher."
+	aboutAuthor = "I have no bio."
 	tweet = ""
 	share = ""
 	# 404 page
@@ -41,7 +42,7 @@ disqusShortname = "arthursantana"
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
+	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 

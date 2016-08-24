@@ -1,8 +1,8 @@
 +++
 date = "2016-08-24T00:09:46-03:00"
-draft = true
+draft = false
 title = "about"
 
 +++
 
-Oioioi
+I haven't written anything useful here.
