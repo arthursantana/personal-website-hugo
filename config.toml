@@ -4,14 +4,14 @@ newContentEditor = "vim"
 baseurl = "https://arthursantana.github.io/"
 languageCode = "en-us"
 title = "Arthur Santana"
-theme = "hugo-cactus-theme"
+theme = "cactus"
 # Enter your tracking code to enable Google Analytics
 #googleAnalytics = ""
 disqusShortname = "arthursantana"
 
 [params]
 	name = "Arthur Santana"
-	description = "Personal blog of Arthur Santana."
+	description = "Personal website of Arthur Santana."
 	bio = "Professional hobbist"
 	# Enter optionally your twitter account
 	#twitter = "Your Twitter account"
@@ -34,7 +34,7 @@ disqusShortname = "arthursantana"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I have no bio."
+	aboutAuthor = "I study Computer Science and run a small software company."
 	tweet = ""
 	share = ""
 	# 404 page

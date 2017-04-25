@@ -4,5 +4,5 @@ deploy: default
 		bash deploy.sh
 test:
 		hugo --buildDrafts serve
-cactus:
-		git clone https://github.com/nishanths/cactus-hugo-theme.git themes/cactus
+theme:
+		https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/cactus
