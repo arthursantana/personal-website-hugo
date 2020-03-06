@@ -5,4 +5,4 @@ deploy: default
 test:
 		hugo --buildDrafts serve
 theme:
-		https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/cactus
+		git clone https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/cactus
